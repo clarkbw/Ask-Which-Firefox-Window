@@ -1,0 +1,4 @@
+content   askwhichbrowserwindow   content/
+locale    askwhichbrowserwindow   en-US         locale/en-US/
+skin      askwhichbrowserwindow   classic/1.0   skin/
+overlay   chrome://browser/content/browser.xul  chrome://askwhichbrowserwindow/content/firefoxOverlay.xul
